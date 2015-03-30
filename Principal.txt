@@ -1,0 +1,6 @@
+Testando o uso do github com um novo projeto.
+
+Segundo http://rogerdudler.github.io/git-guide/index.pt_BR.html foi executado os comandos:
+git add *
+git commit -m "comentários das alterações"
+git push origin master
