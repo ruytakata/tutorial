@@ -4,3 +4,6 @@ Segundo http://rogerdudler.github.io/git-guide/index.pt_BR.html foi executado os
 git add *
 git commit -m "comentários das alterações"
 git push origin master
+
+
+Testando alteração em somente um arquivo
